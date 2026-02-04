@@ -1,0 +1,63 @@
+Starting Course Materials RAG System...
+Make sure you have set your ANTHROPIC_API_KEY in .env
+INFO:     Will watch for changes in these directories: ['/home/summer/Projects/starting-ragchatbot-codebase/backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [3943240] using WatchFiles
+INFO:     Started server process [3943254]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Loading initial documents...
+Course already exists: Prompt Compression and Query Optimization - skipping
+Course already exists: Advanced Retrieval for AI with Chroma - skipping
+Course already exists: Building Towards Computer Use with Anthropic - skipping
+Course already exists: MCP: Build Rich-Context AI Apps with Anthropic - skipping
+Loaded 0 courses with 0 chunks
+INFO:     127.0.0.1:56364 - "GET /api/courses HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'search_tools.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3943254]
+WARNING:  WatchFiles detected changes in 'search_tools.py'. Reloading...
+INFO:     Started server process [3944410]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [3944740]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'search_tools.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3944740]
+INFO:     Started server process [3946035]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Loading initial documents...
+Course already exists: Prompt Compression and Query Optimization - skipping
+Course already exists: Advanced Retrieval for AI with Chroma - skipping
+Course already exists: Building Towards Computer Use with Anthropic - skipping
+Course already exists: MCP: Build Rich-Context AI Apps with Anthropic - skipping
+Loaded 0 courses with 0 chunks
+INFO:     127.0.0.1:47714 - "GET / HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47714 - "GET /style.css?v=10 HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47714 - "GET /script.js?v=10 HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47714 - "GET /api/courses HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44588 - "POST /api/query HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58220 - "POST /api/query HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'test_deepseek_api.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3946035]
+INFO:     Started server process [4043153]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'test_deepseek_api.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [4043153]
+INFO:     Started server process [4048349]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
